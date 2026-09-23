@@ -1,0 +1,75 @@
+plugins {
+    id 'fabric-loom' version '1.14.10'
+    id 'maven-publish'
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base {
+    archivesName = project.archives_base_name
+}
+
+repositories {
+    mavenCentral()
+    maven { url = 'https://maven.fabricmc.net/' }
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+
+    compileOnly 'org.projectlombok:lombok:1.18.38'
+    annotationProcessor 'org.projectlombok:lombok:1.18.38'
+    compileOnly 'com.google.code.findbugs:jsr305:3.0.2'
+    compileOnly 'javax.validation:validation-api:2.0.1.Final'
+    implementation 'com.google.zxing:core:3.5.3'
+    implementation 'com.google.zxing:javase:3.5.3'
+    implementation 'com.github.kevinsawicki:http-request:6.0'
+    implementation 'net.coobird:thumbnailator:0.4.20'
+    implementation 'org.nanohttpd:nanohttpd:2.3.1'
+    compileOnly 'io.netty:netty-codec-http:4.1.115.Final'
+    implementation 'io.projectreactor.netty:reactor-netty-http:1.1.25'
+    implementation 'com.squareup.okhttp3:okhttp:4.12.0'
+    implementation 'org.openjfx:javafx-base:21.0.2:win'
+    implementation 'org.openjfx:javafx-graphics:21.0.2:win'
+    implementation 'org.openjfx:javafx-controls:21.0.2:win'
+    implementation 'org.openjfx:javafx-swing:21.0.2:win'
+    implementation 'org.openjfx:javafx-web:21.0.2:win'
+
+    // Also expose the original jar-in-jar libraries to Loom's development runtime.
+    // The FunTimeEvents SDK calls Minecraft directly and therefore has to pass
+    // through Loom's intermediary -> named remapper for runClient. The remaining
+    // libraries do not reference Minecraft and can stay as ordinary dependencies.
+    implementation fileTree(
+        dir: 'src/main/resources/META-INF/jars',
+        include: ['*.jar'],
+        exclude: ['fte-api-1.0.0.jar']
+    )
+    modImplementation files('src/main/resources/META-INF/jars/fte-api-1.0.0.jar')
+}
+
+loom {
+    accessWidenerPath = file('src/main/resources/rockstar.accesswidener')
+}
+
+processResources {
+    inputs.property 'version', project.version
+    filesMatching('fabric.mod.json') {
+        expand(version: project.version)
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release = 21
+    options.warnings = false
+    options.compilerArgs += ['-Xlint:none', '-nowarn', '-Xmaxerrs', '5000']
+}
+
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(21)
+    withSourcesJar()
+}

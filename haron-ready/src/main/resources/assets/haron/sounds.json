@@ -1,0 +1,17 @@
+{
+  "clickgui_open": {
+    "sounds": [
+      "haron:clickgui_open"
+    ]
+  },
+  "toggle": {
+    "sounds": [
+      "haron:toggle"
+    ]
+  },
+  "critical": {
+    "sounds": [
+      "haron:critical"
+    ]
+  }
+}

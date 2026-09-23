@@ -1,0 +1,19 @@
+{
+  "vertex": "wyvern:core/kawase_down/vertex",
+  "fragment": "wyvern:core/hands/hands_mirror",
+  "samplers": [
+    { "name": "Sampler0" },
+    { "name": "Sampler1" }
+  ],
+  "uniforms": [
+    { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0] },
+    { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0] },
+    { "name": "color", "type": "float", "count": 3, "values": [0.54, 0.60, 1.0] },
+    { "name": "color2", "type": "float", "count": 3, "values": [1.0, 0.42, 0.62] },
+    { "name": "fillStrength", "type": "float", "count": 1, "values": [0.75] },
+    { "name": "reflectionStrength", "type": "float", "count": 1, "values": [0.45] },
+    { "name": "glossStrength", "type": "float", "count": 1, "values": [0.4] },
+    { "name": "texelSize", "type": "float", "count": 2, "values": [0.00052, 0.00093] },
+    { "name": "time", "type": "float", "count": 1, "values": [0.0] }
+  ]
+}

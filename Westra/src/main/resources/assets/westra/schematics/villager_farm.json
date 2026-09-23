@@ -1,0 +1,10295 @@
+{
+  "name": "Фармилка жителей",
+  "author": "Velenok",
+  "createdAt": 1776523083952,
+  "size": {
+    "x": 14,
+    "y": 8,
+    "z": 15
+  },
+  "blocks": [
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:barrier",
+      "properties": {
+        "waterlogged": "false"
+      }
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:chest",
+      "properties": {
+        "facing": "west",
+        "type": "right",
+        "waterlogged": "false"
+      },
+      "nbt": "{Items:[],id:\"minecraft:chest\"}"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:chest",
+      "properties": {
+        "facing": "west",
+        "type": "left",
+        "waterlogged": "false"
+      },
+      "nbt": "{Items:[],id:\"minecraft:chest\"}"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:chest",
+      "properties": {
+        "facing": "west",
+        "type": "right",
+        "waterlogged": "false"
+      },
+      "nbt": "{Items:[],id:\"minecraft:chest\"}"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:chest",
+      "properties": {
+        "facing": "west",
+        "type": "left",
+        "waterlogged": "false"
+      },
+      "nbt": "{Items:[],id:\"minecraft:chest\"}"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:chest",
+      "properties": {
+        "facing": "west",
+        "type": "right",
+        "waterlogged": "false"
+      },
+      "nbt": "{Items:[],id:\"minecraft:chest\"}"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:chest",
+      "properties": {
+        "facing": "west",
+        "type": "left",
+        "waterlogged": "false"
+      },
+      "nbt": "{Items:[],id:\"minecraft:chest\"}"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:oak_wall_sign",
+      "properties": {
+        "facing": "west",
+        "waterlogged": "false"
+      },
+      "nbt": "{back_text:{color:\"black\",has_glowing_text:0b,messages:[\u0027\"\"\u0027,\u0027\"\"\u0027,\u0027\"\"\u0027,\u0027\"\"\u0027]},front_text:{color:\"black\",has_glowing_text:0b,messages:[\u0027\"\"\u0027,\u0027\"\"\u0027,\u0027\"\"\u0027,\u0027\"\"\u0027]},id:\"minecraft:sign\",is_waxed:0b}"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:hopper",
+      "properties": {
+        "enabled": "true",
+        "facing": "west"
+      },
+      "nbt": "{Items:[],TransferCooldown:-1,id:\"minecraft:hopper\"}"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:hopper",
+      "properties": {
+        "enabled": "true",
+        "facing": "west"
+      },
+      "nbt": "{Items:[],TransferCooldown:-1,id:\"minecraft:hopper\"}"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:hopper",
+      "properties": {
+        "enabled": "true",
+        "facing": "west"
+      },
+      "nbt": "{Items:[],TransferCooldown:-1,id:\"minecraft:hopper\"}"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:hopper",
+      "properties": {
+        "enabled": "true",
+        "facing": "west"
+      },
+      "nbt": "{Items:[],TransferCooldown:-1,id:\"minecraft:hopper\"}"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:hopper",
+      "properties": {
+        "enabled": "true",
+        "facing": "west"
+      },
+      "nbt": "{Items:[],TransferCooldown:-1,id:\"minecraft:hopper\"}"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:hopper",
+      "properties": {
+        "enabled": "true",
+        "facing": "west"
+      },
+      "nbt": "{Items:[],TransferCooldown:-1,id:\"minecraft:hopper\"}"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:chest",
+      "properties": {
+        "facing": "west",
+        "type": "right",
+        "waterlogged": "false"
+      },
+      "nbt": "{Items:[],id:\"minecraft:chest\"}"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:chest",
+      "properties": {
+        "facing": "west",
+        "type": "left",
+        "waterlogged": "false"
+      },
+      "nbt": "{Items:[],id:\"minecraft:chest\"}"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:brewing_stand",
+      "properties": {
+        "has_bottle_0": "false",
+        "has_bottle_1": "false",
+        "has_bottle_2": "false"
+      },
+      "nbt": "{BrewTime:0s,Fuel:0b,Items:[],id:\"minecraft:brewing_stand\"}"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "z": 14,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 0,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 1,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 2,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 3,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 4,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 5,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 6,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 7,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 8,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 9,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 10,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 11,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 12,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 13,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "z": 14,
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 0,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 1,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 2,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 3,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 4,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 5,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 6,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 7,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 8,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 9,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 10,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 11,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 12,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 13,
+      "block": "minecraft:air"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "z": 14,
+      "block": "minecraft:barrier",
+      "properties": {
+        "waterlogged": "false"
+      }
+    }
+  ]
+}

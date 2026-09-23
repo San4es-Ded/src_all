@@ -1,0 +1,92 @@
+plugins {
+    id 'net.fabricmc.fabric-loom-remap' version "${loom_version}"
+    id 'maven-publish'
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base {
+    archivesName = project.archives_base_name
+}
+
+repositories {
+    mavenCentral()
+    maven { url = 'https://maven.fabricmc.net/' }
+    maven { url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/' }
+}
+
+loom {
+    mods {
+        "westra" {
+            sourceSet sourceSets.main
+        }
+    }
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+
+    modImplementation "software.bernie.geckolib:geckolib-fabric-1.21.4:${project.geckolib_version}"
+    include "software.bernie.geckolib:geckolib-fabric-1.21.4:${project.geckolib_version}"
+
+    // Jar-in-jar библиотеки мода лежат в ресурсах (как в оригинальном jar).
+    implementation fileTree(dir: 'src/main/resources/META-INF/jars', include: ['*.jar'])
+
+    // Локальные jar'ы из libs/ (MC 1.21.4).
+    // Baritone — только API для компиляции, сам мод подключается в рантайме.
+    compileOnly files('libs/baritone-api-fabric-1.13.1.jar')
+
+    // Рантайм-моды для runClient (в сборку не попадают).
+    // fabric-api и geckolib здесь НЕ дублируются — они уже тянутся из maven,
+    // baritone-unoptimized не включается (это альтернатива standalone).
+    modRuntimeOnly files(
+            'libs/baritone-standalone-fabric-1.13.1.jar',
+            'libs/figura-0.1.5b+1.21.4-fabric-mc (1).jar',
+            'libs/IAS-9.0.7+1.21.4-fabric.jar',
+            'libs/iris-fabric-1.8.8+mc1.21.4.jar',
+            'libs/sodium-fabric-0.6.13+mc1.21.4.jar',
+            'libs/removewardeneffect-0.0.2-1.20.5-6.jar'
+    )
+
+    compileOnly 'org.projectlombok:lombok:1.18.46'
+    annotationProcessor 'org.projectlombok:lombok:1.18.46'
+
+    compileOnly 'org.osgi:osgi.core:8.0.0'
+    compileOnly 'biz.aQute.bnd:biz.aQute.bnd.annotation:6.4.0'
+    compileOnly 'org.osgi:osgi.annotation:8.0.0'
+}
+
+processResources {
+    inputs.property "version", project.version
+    filteringCharset "UTF-8"
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.encoding = "UTF-8"
+    it.options.release = 21
+    it.options.compilerArgs << "-Xmaxerrs" << "9999999"
+    it.options.warnings = false
+}
+
+java {
+    withSourcesJar()
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+}
+
+jar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}
+
+publishing {
+    publications {
+        create("mavenJava", MavenPublication) {
+            from components.java
+        }
+    }
+}

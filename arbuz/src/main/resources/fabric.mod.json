@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "arbuzhack",
+  "version": "${version}",
+  "name": "arbuzhack",
+  "description": "Recovered offline source tree for arbuzhack",
+  "authors": [
+    "skidname"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "accessWidener": "arbuz.accesswidener",
+  "entrypoints": {
+    "main": [
+      "org.patch.arbuzhack.api.Proxy"
+    ]
+  },
+  "mixins": [
+    "arbuzhack.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "\u003e\u003d0.16.14",
+    "fabric": "*",
+    "minecraft": "1.21.4",
+    "mixinextras": "\u003e\u003d0.4.0"
+  }
+}

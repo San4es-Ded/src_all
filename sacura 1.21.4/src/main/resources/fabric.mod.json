@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "sacura",
+  "version": "1.0",
+  "name": "sacura",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/sacura/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "su.sacura.Sacura"
+    ]
+  },
+  "mixins": [
+    "sacura.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "fabric-api": "*",
+    "minecraft": "1.21.4"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "pulse",
+  "version": "${version}",
+  "name": "Pulse",
+  "description": "Pulse client mod.",
+  "authors": [
+    "Pulse"
+  ],
+  "contact": {
+    "homepage": "https://pulsevisuals.pro/"
+  },
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "ru.pulse.Pulse"
+    ]
+  },
+  "mixins": [
+    "pulse.mixins.json"
+  ],
+  "accessWidener": "pulse.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

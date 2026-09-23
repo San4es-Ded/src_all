@@ -1,0 +1,25 @@
+{
+  "vertex": "westra:core/motion/motion_blur",
+  "fragment": "westra:core/motion/motion_blur",
+  "samplers": [
+    { "name": "Sampler0" },
+    { "name": "Sampler1" }
+  ],
+  "uniforms": [
+    { "name": "ModelViewMat",  "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "ProjMat",       "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "MvInverse",     "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "ProjInverse",   "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "PrevModelView", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "PrevProjection","type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "CameraPos",     "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+    { "name": "PrevCameraPos", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+    { "name": "ViewRes",       "type": "float", "count": 2, "values": [ 1920.0, 1080.0 ] },
+    { "name": "BlendFactor",   "type": "float", "count": 1, "values": [ 1.0 ] },
+    { "name": "InverseSamples","type": "float", "count": 1, "values": [ 0.125 ] },
+    { "name": "HandDepthThreshold", "type": "float", "count": 1, "values": [ 0.05 ] },
+    { "name": "SampleCount",   "type": "float", "count": 1, "values": [ 8.0 ] },
+    { "name": "HalfSamples",   "type": "float", "count": 1, "values": [ 4.0 ] },
+    { "name": "BlurAlgorithm", "type": "float", "count": 1, "values": [ 1.0 ] }
+  ]
+}

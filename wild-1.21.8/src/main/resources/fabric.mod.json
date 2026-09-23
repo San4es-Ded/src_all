@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "wild",
+  "version": "1.21.8",
+  "name": "Wild",
+  "description": "",
+  "authors": [
+    "NONE"
+  ],
+  "contact": {
+    "homepage": "",
+    "issues": ""
+  },
+  "license": "MIT",
+  "icon": "assets/wild/ico.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ru.wild.WildClient"
+    ]
+  },
+  "mixins": [
+    "wild_mixins.json"
+  ],
+  "jars": [
+    {
+      "file": "META-INF/jars/baritone-1.21.8-SNAPSHOT.jar"
+    },
+    {
+      "file": "META-INF/jars/Java-WebSocket-1.5.6.jar"
+    },
+    {
+      "file": "META-INF/jars/javassist-3.29.2-GA.jar"
+    },
+    {
+      "file": "META-INF/jars/jlayer-1.0.1.4.jar"
+    },
+    {
+      "file": "META-INF/jars/json-20230618.jar"
+    },
+    {
+      "file": "META-INF/jars/mp3spi-1.9.5.4.jar"
+    },
+    {
+      "file": "META-INF/jars/netty-codec-socks-4.1.101.Final.jar"
+    },
+    {
+      "file": "META-INF/jars/netty-handler-proxy-4.1.101.Final.jar"
+    },
+    {
+      "file": "META-INF/jars/reflections-0.10.2.jar"
+    },
+    {
+      "file": "META-INF/jars/tritonus-share-0.3.7.4.jar"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "fabric": "*",
+    "minecraft": "~1.21.8"
+  },
+  "suggests": {
+    "viafabricplus": ">=4.2.0"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Telegram": "https://t.me/wildclient"
+      }
+    }
+  }
+}

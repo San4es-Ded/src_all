@@ -1,0 +1,36 @@
+package aethereal.event;
+
+import aethereal.core.Event;
+import aethereal.core.IEvent;
+import lombok.Generated;
+
+public class RemovalsEvent extends Event implements IEvent {
+   private final RemovalsEvent.a a;
+
+   @Generated
+   public RemovalsEvent.a b() {
+      return this.a;
+   }
+
+   public RemovalsEvent(RemovalsEvent.a type) {
+      this.a = type;
+   }
+
+   public static enum a {
+      HURT_CAM,
+      SCOREBOARD,
+      BOSS_BAR,
+      PORTAL,
+      FIRE,
+      CLIP,
+      BREAK_PARTICLES,
+      WATER,
+      NAUSEA,
+      BLINDNESS,
+      PUMPKIN,
+      WEATHER,
+      GLOW,
+      DARKNESS,
+      BLACK_HEARTS;
+   }
+}

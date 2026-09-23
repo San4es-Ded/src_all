@@ -1,0 +1,134 @@
+package pulse.hud.notifications;
+
+import java.awt.Color;
+import net.minecraft.client.network.ClientPlayNetworkHandler;
+import net.minecraft.client.network.PlayerListEntry;
+import org.joml.Matrix3x2fStack;
+import pulse.hud.core.HudIcons;
+import pulse.module.ModuleRegistry;
+import pulse.render.Renderer2D;
+import pulse.render.font.FontManager;
+import pulse.render.font.FontRenderer;
+
+public class WatermarkOverlay extends HudNotification {
+   private static final String DOMAIN = "pulsevisuals.pro";
+   private static final float ICON_SIZE = 16.0F;
+   private static final float GAP = 7.0F;
+   private static final int FONT_SIZE = 14;
+   private static final float RADIUS = 12.0F;
+   private static final Color CARD_TOP = new Color(8, 8, 11, 235);
+   private static final Color CARD_BOTTOM = new Color(5, 5, 8, 240);
+   private static final Color ICON_TINT = new Color(255, 255, 255, 255);
+   private static final Color TEXT = new Color(255, 255, 255, 255);
+   private static final Color MUTED = new Color(145, 145, 160, 220);
+
+   public WatermarkOverlay() {
+      this.g = 11.0F;
+      this.h = 4.0F;
+   }
+
+   @Override
+   public float a() {
+      return this.measureTextWidth();
+   }
+
+   @Override
+   public float b() {
+      return 16.0F;
+   }
+
+   @Override
+   public void a(Matrix3x2fStack MatrixStackVar, Renderer2D renderer2D, float f, float f2, float f3, float f4, float f5) {
+      if (!(f5 < 0.01F)) {
+         float f6 = f2 + f4 / 2.0F;
+         float iconY = f6 - 8.0F;
+         float iconCx = f + 8.0F;
+         float iconCy = iconY + 8.0F;
+         int glowSteps = 24;
+         float maxGlowRadius = 13.0F;
+
+         for (int i = glowSteps; i >= 1; i--) {
+            float ratio = (float)i / glowSteps;
+            float currentRadius = maxGlowRadius * ratio;
+            float glowSize = currentRadius * 2.0F;
+            float glowX = iconCx - currentRadius;
+            float glowY = iconCy - currentRadius;
+            float alphaFactor = (1.0F - ratio) * (1.0F - ratio);
+            int alpha = (int)(22.0F * alphaFactor * f5);
+            if (alpha > 0) {
+               renderer2D.a(glowX, glowY, glowSize, glowSize, currentRadius, new Color(150, 70, 255, alpha), MatrixStackVar);
+            }
+         }
+
+         HudIcons.drawWatermarkIcon(renderer2D, MatrixStackVar, f, iconY, 16.0F, this.a(ICON_TINT, f5));
+         this.drawSegments(MatrixStackVar, f + 16.0F + 7.0F, f6, f5);
+      }
+   }
+
+   private void drawSegments(Matrix3x2fStack MatrixStackVar, float f, float f2, float f3) {
+      FontRenderer fontRenderer = FontManager.MEDIUM[14];
+      float fB = f2 - fontRenderer.b("pulsevisuals.pro") / 4.0F;
+      if (ModuleRegistry.WATERMARK == null || ModuleRegistry.WATERMARK.a() && ModuleRegistry.WATERMARK.fpsAndPing().a()) {
+         this.drawPart(
+            fontRenderer,
+            this.getFps() + " FPS",
+            this.drawPart(
+               fontRenderer,
+               " / ",
+               this.drawPart(
+                  fontRenderer,
+                  this.getPingMs() + " ms",
+                  this.drawPart(
+                     fontRenderer, " / ", this.drawPart(fontRenderer, "pulsevisuals.pro", f, fB, TEXT, f3, MatrixStackVar), fB, MUTED, f3, MatrixStackVar
+                  ),
+                  fB,
+                  TEXT,
+                  f3,
+                  MatrixStackVar
+               ),
+               fB,
+               MUTED,
+               f3,
+               MatrixStackVar
+            ),
+            fB,
+            TEXT,
+            f3,
+            MatrixStackVar
+         );
+      } else {
+         this.drawPart(fontRenderer, "pulsevisuals.pro", f, fB, TEXT, f3, MatrixStackVar);
+      }
+   }
+
+   private float drawPart(FontRenderer fontRenderer, String str, float f, float f2, Color color, float f3, Matrix3x2fStack MatrixStackVar) {
+      fontRenderer.a(str, f, f2, this.a(color, f3), MatrixStackVar);
+      return f + fontRenderer.a(str);
+   }
+
+   private float measureTextWidth() {
+      FontRenderer fontRenderer = FontManager.MEDIUM[14];
+      return ModuleRegistry.WATERMARK == null || ModuleRegistry.WATERMARK.a() && ModuleRegistry.WATERMARK.fpsAndPing().a()
+         ? 23.0F
+            + fontRenderer.a("pulsevisuals.pro")
+            + fontRenderer.a(" / ")
+            + fontRenderer.a(this.getPingMs() + " ms")
+            + fontRenderer.a(" / ")
+            + fontRenderer.a(this.getFps() + " FPS")
+         : 23.0F + fontRenderer.a("pulsevisuals.pro");
+   }
+
+   private int getFps() {
+      return Math.max(0, c.getCurrentFps());
+   }
+
+   private int getPingMs() {
+      ClientPlayNetworkHandler ClientPlayNetworkHandlerVarGetNetworkHandler;
+      PlayerListEntry PlayerListEntryVarGetPlayerListEntry;
+      return c.player != null
+            && (ClientPlayNetworkHandlerVarGetNetworkHandler = c.getNetworkHandler()) != null
+            && (PlayerListEntryVarGetPlayerListEntry = ClientPlayNetworkHandlerVarGetNetworkHandler.getPlayerListEntry(c.player.getUuid())) != null
+         ? PlayerListEntryVarGetPlayerListEntry.getLatency()
+         : 0;
+   }
+}

@@ -1,0 +1,70 @@
+ package su.sacura.util.impl.render.providers;
+ 
+ import com.google.gson.Gson;
+ import com.google.gson.JsonObject;
+ import com.google.gson.JsonParser;
+ import java.io.BufferedReader;
+ import java.io.IOException;
+ import java.io.InputStream;
+ import java.io.InputStreamReader;
+ import java.util.stream.Collectors;
+ import net.minecraft.client.MinecraftClient;
+ import net.minecraft.resource.ResourceManager;
+ import net.minecraft.util.Identifier;
+ 
+ public final class ResourceProvider {
+   private static final ResourceManager RESOURCE_MANAGER = MinecraftClient.getInstance().getResourceManager();
+   
+   private static final Gson GSON = new Gson();
+   
+   public static Identifier getShaderIdentifier(String name) {
+     return Identifier.of("mre", "core/" + name);
+   }
+   
+   public static JsonObject toJson(Identifier identifier) {
+     return JsonParser.parseString(toString(identifier)).getAsJsonObject();
+   }
+   
+   public static <T> T fromJsonToInstance(Identifier identifier, Class<T> clazz) {
+     return (T)GSON.fromJson(toString(identifier), clazz);
+   }
+   
+   public static String toString(Identifier identifier) {
+     return toString(identifier, "\n");
+   }
+   
+   public static String toString(Identifier identifier, String delimiter) {
+     try {
+       InputStream inputStream = RESOURCE_MANAGER.open(identifier);
+       try {
+         BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
+         try {
+           String str = reader.lines().collect(Collectors.joining(delimiter));
+           reader.close();
+           if (inputStream != null)
+             inputStream.close(); 
+           return str;
+         } catch (Throwable throwable) {
+           try {
+             reader.close();
+           } catch (Throwable throwable1) {
+             throwable.addSuppressed(throwable1);
+           } 
+           throw throwable;
+         } 
+       } catch (Throwable throwable) {
+         if (inputStream != null)
+           try {
+             inputStream.close();
+           } catch (Throwable throwable1) {
+             throwable.addSuppressed(throwable1);
+           }  
+         throw throwable;
+       } 
+     } catch (IOException ex) {
+       throw new RuntimeException(ex);
+     } 
+   }
+ }
+
+

@@ -1,0 +1,101 @@
+plugins {
+    id 'fabric-loom' version '1.10-SNAPSHOT'
+    id 'maven-publish'
+    id 'com.gradleup.shadow' version '9.0.0-beta15'
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base {
+    archivesName = project.archives_base_name
+}
+
+def figuraJarFile = file("src/main/resources/META-INF/jars/figura-0.1.6+1.21.4-fabric-mc.jar")
+def figuraNestedRuntimeDir = layout.buildDirectory.dir("figura-nested-runtime")
+
+def extractFiguraNestedRuntime = tasks.register("extractFiguraNestedRuntime", Sync) {
+    from(zipTree(figuraJarFile)) {
+        include("META-INF/jars/luaj-core-*.jar")
+        include("META-INF/jars/luaj-jse-*.jar")
+        include("META-INF/jars/nv-websocket-client-*.jar")
+        eachFile { details -> details.path = details.name }
+        includeEmptyDirs = false
+    }
+    into(figuraNestedRuntimeDir)
+}
+
+repositories {
+    mavenCentral()
+    maven { url "https://maven.shedaniel.me/" }
+    maven { url "https://jitpack.io" }
+    maven { url "https://maven.meteordev.org/releases" }
+    maven { url "https://maven.meteordev.org" }
+}
+
+dependencies {
+    minecraft("com.mojang:minecraft:${project.minecraft_version}")
+    mappings("net.fabricmc:yarn:${project.yarn_mappings}:v2")
+    modImplementation("net.fabricmc:fabric-loader:${project.loader_version}")
+    modImplementation("net.fabricmc.fabric-api:fabric-api:${project.fabric_version}")
+    include(modImplementation("me.shedaniel.cloth:cloth-config-fabric:${project.cloth_config_version}"))
+    modImplementation(files("src/main/resources/META-INF/jars/lootbeams-3.6.1-mc1.21.4.jar"))
+    modImplementation(files("src/main/resources/META-INF/jars/mas-effects-1.21.4.jar"))
+    modImplementation(files("src/main/resources/META-INF/jars/figura-0.1.6+1.21.4-fabric-mc.jar"))
+    runtimeOnly(fileTree(dir: figuraNestedRuntimeDir.get().asFile, include: ["*.jar"]))
+    include implementation("meteordevelopment:discord-ipc:1.1")
+    include implementation("meteordevelopment:orbit:0.2.3")
+    implementation(shadow("dev.redstones.mediaplayerinfo:media-player-info:0.1.0"))
+    compileOnly("org.projectlombok:lombok:1.18.38")
+    annotationProcessor("org.projectlombok:lombok:1.18.38")
+    // j2c native-obfuscation markers (@Native/@FastNative/@Flatten/…). CLASS-retention,
+    // read from the classfile by the j2c obfuscator — not needed on the runtime classpath.
+    compileOnly(files("libs/j2c-annotations.jar"))
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.encoding = "UTF-8"
+    if (21 >= 10 || JavaVersion.current().isJava10Compatible()) it.options.release.set(21)
+}
+
+loom {
+    accessWidenerPath = file("src/main/resources/wyvern.accesswidener")
+    mixin {
+        defaultRefmapName.set("wyvern-refmap.json")
+    }
+}
+
+java {
+    def javaVersion = JavaVersion.toVersion(21)
+    if (JavaVersion.current() < javaVersion) toolchain.languageVersion = JavaLanguageVersion.of(21)
+    withSourcesJar()
+}
+
+jar {
+    from("LICENSE") {
+        rename { "${it}_${project.archivesBaseName}" }
+    }
+    from("FIGURA_LICENSE_NOTICE.md")
+}
+
+shadowJar {
+    exclude("org/objectweb/**")
+    configurations = [project.configurations.shadow]
+    archiveClassifier.set("dev")
+    from("FIGURA_LICENSE_NOTICE.md")
+}
+
+remapJar {
+    dependsOn(shadowJar)
+    inputFile = tasks.shadowJar.archiveFile
+}
+
+tasks.named("compileJava").configure { dependsOn(extractFiguraNestedRuntime) }
+tasks.named("processResources").configure {
+    dependsOn(extractFiguraNestedRuntime)
+    from(figuraNestedRuntimeDir) {
+        include("*.jar")
+        into("META-INF/jars")
+    }
+}
+tasks.named("runClient").configure { dependsOn(extractFiguraNestedRuntime) }

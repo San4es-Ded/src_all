@@ -1,0 +1,42 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "su.sacura.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "entity.EntityMixin",
+    "entity.LivingEntityMixin",
+    "network.ClientConnectionMixin",
+    "text.TextVisitFactoryMixin"
+  ],
+  "client": [
+    "accessors.MinecraftClientAccessor",
+    "accessors.WorldRendererAccessor",
+    "client.gui.hud.ChatHudMixin",
+    "client.MinecraftClientMixin",
+    "client.gui.hud.InGameOverlayRendererMixin",
+    "client.gui.hud.PlayerListHudMixin",
+    "client.network.ClientPlayerEntityMixin",
+    "client.network.ClientPlayerInteractionManagerMixin",
+    "client.render.BackgroundRendererMixin",
+    "client.render.CameraMixin",
+    "client.render.GameRendererMixin",
+    "client.render.LightmapTextureManagerMixin",
+    "client.render.WorldRendererMixin",
+    "client.render.entity.ItemEntityRendererMixin",
+    "client.render.entity.LivingEntityRendererMixin",
+    "client.render.item.HeldItemRendererMixin",
+    "client.screen.ingame.HandledScreenMixin",
+    "client.screen.ingame.MouseMixin",
+    "client.screen.ingame.InGameHudMixin",
+    "client.world.ClientWorldPropertiesMixin",
+    "player.input.KeyboardMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "refmap": "sacura-refmap.json"
+}

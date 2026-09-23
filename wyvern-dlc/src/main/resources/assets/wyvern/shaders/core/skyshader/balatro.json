@@ -1,0 +1,23 @@
+{
+  "vertex": "wyvern:core/skyshader/sky_fullscreen",
+  "fragment": "wyvern:core/skyshader/balatro",
+  "samplers": [],
+  "uniforms": [
+    { "name": "ModelViewMat", "type": "matrix4x4", "count": 16, "values": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] },
+    { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1] },
+    { "name": "uTime", "type": "float", "count": 1, "values": [0] },
+    { "name": "uResolution", "type": "float", "count": 2, "values": [1920,1080] },
+    { "name": "uColor", "type": "float", "count": 3, "values": [0.75,0.08,0.08] },
+    { "name": "uColor2", "type": "float", "count": 3, "values": [0.2,0.02,0.08] },
+    { "name": "uAlpha", "type": "float", "count": 1, "values": [1] },
+    { "name": "uSpeed", "type": "float", "count": 1, "values": [1] },
+    { "name": "uScale", "type": "float", "count": 1, "values": [5] },
+    { "name": "uIntensity", "type": "float", "count": 1, "values": [0.3] },
+    { "name": "uCameraDir", "type": "float", "count": 2, "values": [0,0] },
+    { "name": "uFov", "type": "float", "count": 1, "values": [70] },
+    { "name": "uRain", "type": "float", "count": 1, "values": [0] },
+    { "name": "uThunder", "type": "float", "count": 1, "values": [0] },
+    { "name": "uNight", "type": "float", "count": 1, "values": [0] },
+    { "name": "uThemeMix", "type": "float", "count": 1, "values": [0] }
+  ]
+}
